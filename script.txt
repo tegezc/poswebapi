@@ -1,0 +1,5 @@
+python manage.py runserver --> run server
+python manage.py createsuperuser --> create super user
+python manage.py makemigrations  --> generate makemigrations
+python manage.py migrate --> melakukan migration db
+python manage.py shell 
